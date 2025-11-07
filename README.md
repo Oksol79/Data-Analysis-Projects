@@ -93,6 +93,7 @@ Two levels of diagnostic information were used, which are the basis for highligh
 As the source material for constructing the ontology, we will use tables with diagnostic information of the type "object - property": (D,R), D ≠ ∅, R ≠ ∅, where D - a set of objects, and R - a set of properties of these objects.
 The result of constructing the table is the establishment of binary relations between objects and properties. The rows of the table correspond to objects of the subject area, and the columns reflect the set of properties of these objects (Table 1).  
 Table 1 - Example of a tabular representation of diagnostic information about objects and their properties
+
 <img width="532" height="278" alt="image" src="https://github.com/user-attachments/assets/c569ff69-94e3-46ad-b764-6eff5b9b5724" />
 
 To build the class structure, the following tasks were solved:  
@@ -110,6 +111,7 @@ The method of forming a taxonomy of classes in a subject area is as follows. Fir
 
 In the obtained abstract structure, we record real (those for which objects and properties are defined) and abstract classes (for which there is not enough diagnostic information yet).  
 The procedure for forming the class structure is iterative and allows us to detect incompleteness of the description of the subject area. If the number of abstract classes is relatively large (in percentage terms), then either the subject area has many exceptions, or the set of object properties is defined inefficiently.  
+
 <img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/88bd6c3a-7f93-4e10-8ff6-0a9e6e620950" />
 
 As a result of processing the table with diagnostic information based on the proposed method, the following are performed:
