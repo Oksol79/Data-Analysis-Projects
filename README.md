@@ -74,7 +74,7 @@ To do this, the project:
 
 The base taxonomy is enhanced with non-taxonomic semantic relations to represent richer conceptual connections and enable more diverse queries.
 An ontology is a special type of knowledge base that can be read, interpreted, separated from the developer, and/or physically shared by users.
-To build an ontology of the subject area "intellectual diagnostics of computer means" based on expert representations and assessments, the following were developed:
+To build an ontology of the subject area "Intellectual diagnostics of computer means" based on expert representations and assessments, the following were developed:
  - A taxonomy of classes of concepts of the subject area.
  - A structure of concepts and relations of this subject area was formed.
  - A set of axioms was formed to limit the interpretation of concepts of the subject area.
@@ -117,7 +117,7 @@ The procedure for forming the class structure is iterative and allows us to dete
 <img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/88bd6c3a-7f93-4e10-8ff6-0a9e6e620950" />
 
 As a result of processing the table with diagnostic information based on the proposed method, the following are performed:
- - Classification of objects of the subject area "intelligent diagnostics of computer means".
+ - Classification of objects of the subject area "Intelligent diagnostics of computer means".
  - Aggregation of objects (by combining them into classes).
  - Association of objects (based on the distance between classes, which is determined by the number of different properties for two classes).
 
